@@ -1,0 +1,16 @@
+.button:hover {
+    cursor: pointer;
+    background: rgb(199, 190, 190);
+    margin-bottom: 4px;
+    /* width: 200px;
+    height: 200px; */
+}
+
+.popup .popuptext {
+    visibility: hidden;
+    position: absolute;
+}
+
+.popup .show {
+    visibility: visible;
+}
