@@ -1,6 +1,9 @@
 # To-do Minimal
 A simple, minimalistic to-do list web application. 
 
-![Alt text](Images/Screenshots/Screenshot1.png)
+Struggling to insert a screenshot, but the features are:
+- Add and/or remove tasks from the list
+- Cross off tasks, but don't remove them just yet
+- Rearrange tasks in any order you like
 
-![Alt text](D:/Users/thech/Documents/GitHub/To-Do-List-Webdev/Images/Screenshots/Screenshot1.png)
+- Tasks and their order will persist, even upon refresh/close
