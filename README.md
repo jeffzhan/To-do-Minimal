@@ -1,2 +1,2 @@
-# To-Do-List-Webdev
-It's Jeffery and Alvin. We made a To-Do List web-based application.
+# To-do Minimal
+A simple, minimalistic to-do list web application. 
